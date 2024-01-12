@@ -4,10 +4,6 @@ The record will have the units sold, the price, and the amount (units*price). Th
 units would be random numbers within the range. The price can be between 20 and 30. The
 units can be between 100 - 1000. But the price will remain the same for each month. Once the
 data is created compute and output the following.
-1. For each month the units sold and the amount
-2. For each quarter the units sold and the amount.
-3. The quarter which had the maximum sale in terms of amount.
-4. The quarter that had the maximum sales in terms of units
 
 1. For each month the units sold and the amount
 ![Q11-1](https://github.com/PremLohar/Cocotechoes_Q11/assets/122276257/543d320f-177e-44a5-8a07-8afe1a0bdb21)
